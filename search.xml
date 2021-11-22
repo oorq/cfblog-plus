@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogs>
+	<blog>
+		<title>随机人脸</title>
+		<content>[![](https://thispersondoesnotexist.com/image)](https://thispersondoesnotexist.com/image)# MarkDown</content>
+		<url>https://bb.zjyz.ga/article/000010/face.html</url>
+		<time>2021-10-02</time>
+	</blog>
+	<blog>
+		<title>添加评论的坑啊</title>
+		<content># 大坑
+
+---------------------------------------------
+
+####终于填完了，居然是粘贴格式不对。
+#####又学了一招，然后debug，就开f12看一下代码
+
+![1737.jpg](https://img03.mifile.cn/v1/MI_542ED8B1722DC/467b06c2ae95678d1ee945ba655bd41a.jpg)
+&amp;lt;iframe 
+    height=450 
+    width=800 
+    src="http://player.youku.com/embed/XMzMxMjE0MjY4NA==" 
+    frameborder=0 
+    allowfullscreen&amp;gt;
+&amp;lt;/iframe&amp;gt;
+
+[![](https://cloudreve-888haobing.cloud.okteto.net/api/v3/file/get/1/20200312.png?sign=8NV1GiXZYXwRZM4KL2yIy34FKlqbboOGKNbr3khHhP4%3D%3A0)](https://cloudreve-888haobing.cloud.okteto.net/api/v3/file/get/1/20200312.png?sign=8NV1GiXZYXwRZM4KL2yIy34FKlqbboOGKNbr3khHhP4%3D%3A0)
+
+&amp;lt;iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fpublic%2Ebn%2Efiles%2E1drv%2Ecom%3A443%2Fy4msQX4WENePbsBbaX5H37M%2DeyHKuc%5FuRTwk3NZVaqIRY%5FWcY15iE7XqK5q%5F6qFRqxQDXYVloO6BHwTpbH0bc782sTr8Oi%5FcmCF2qawf8P0iPqGv5JvlhgAvJ8s40h1unEFM8TtUWU%2Dh6nQ3hnq1Nw7bPoK2mP7VO9XimD%5Ff5OFqg%2DfsGPOhIc%2DOiWzBhcurZuR9WqCSsyJd5o8gMUyfcEqWRMh7qGhQvdPtZIrU88kxOAgFvePgBuMhFIxzur%5FXRJD&amp;amp;wdStartOn=1" width="476px" height="288px" frameborder="0"&amp;gt;这是嵌入 &amp;lt;a target="_blank" href="https://office.com"&amp;gt;Microsoft Office&amp;lt;/a&amp;gt; 文档，由 &amp;lt;a target="_blank" href="https://office.com/webapps"&amp;gt;Office&amp;lt;/a&amp;gt; 提供支持。&amp;lt;/iframe&amp;gt;</content>
+		<url>https://bb.zjyz.ga/article/000009/.html</url>
+		<time>2021-02-20</time>
+	</blog>
+	<blog>
+		<title>记事本</title>
+		<content># MarkDown</content>
+		<url>https://bb.zjyz.ga/article/000008/b.html</url>
+		<time>2021-02-20</time>
+	</blog>
+	<blog>
+		<title>test</title>
+		<content>![](https://pixnio.com/free-images/flora-plants/flowers/dark-pink-cosmos-flower.jpg)
+# MarkDown
+&amp;times; &amp;hearts; &amp;Ouml; &amp;hearts; &amp;hearts; &amp;#84; &amp;Aring;
+
+</content>
+		<url>https://bb.zjyz.ga/article/000007/.html</url>
+		<time>2021-02-20</time>
+	</blog>
+	<blog>
+		<title>test</title>
+		<content># MarkDown</content>
+		<url>https://bb.zjyz.ga/article/000006/.html</url>
+		<time>2021-02-19</time>
+	</blog>
+	<blog>
+		<title>test</title>
+		<content># MarkDown</content>
+		<url>https://bb.zjyz.ga/article/000005/.html</url>
+		<time>2021-02-19</time>
+	</blog>
+	<blog>
+		<title>test2</title>
+		<content># MarkDown</content>
+		<url>https://bb.zjyz.ga/article/000003/.html</url>
+		<time>2021-02-17</time>
+	</blog>
+	<blog>
+		<title>test</title>
+		<content># MarkDown</content>
+		<url>https://bb.zjyz.ga/article/000002/.html</url>
+		<time>2021-02-17</time>
+	</blog>
+	<blog>
+		<title>网站</title>
+		<content># 网站</content>
+		<url>https://bb.zjyz.ga/article/000001//category/网站.html</url>
+		<time>2021-02-17</time>
+	</blog>
+</blogs>
